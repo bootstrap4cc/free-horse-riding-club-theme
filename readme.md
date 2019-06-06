@@ -5,7 +5,7 @@ Free horse racing bootstrap4 website template
 
 ## Preview
 
-[![Free Horse Racing Preview](http://bootstrap4.cc/wp-content/uploads/2019/06/free-horse-racing-theme.png)](https://bootstrap4.cc/theme/free-horse-racing-theme/)
+[![Free Horse Racing Preview](http://bootstrap4.cc/wp-content/uploads/2019/06/horse-racing.png)](https://bootstrap4.cc/theme/free-horse-racing-theme/)
 
 **[View Live Preview](https://bootstrap4.cc/theme/free-horse-racing-theme)**
 
