@@ -1,18 +1,18 @@
-# Horse Racing Theme
-Free horse racing bootstrap4 website template
+# Horse Riding Theme
+Free horse riding club bootstrap4 website template
 
-[Free Horse Racing Theme](https://bootstrap4.cc/theme/free-horse-racing-theme/) is a mutliple pages HTML theme for [Bootstrap](http://getbootstrap.com/) created by colorlib, shared by [bootstrap4.cc](https://bootstrap4.cc) .
+[Free Horse Riding Theme](https://bootstrap4.cc/theme/free-horse-riding-club-theme/) is a mutliple pages HTML theme for [Bootstrap](http://getbootstrap.com/) created by colorlib, shared by [bootstrap4.cc](https://bootstrap4.cc) .
 
 ## Preview
 
-[![Free Horse Racing Preview](http://bootstrap4.cc/wp-content/uploads/2019/06/horse-racing.png)](https://bootstrap4.cc/theme/free-horse-racing-theme/)
+[![Free Horse Riding Preview](http://bootstrap4.cc/wp-content/uploads/2019/06/horse-racing.png)](https://bootstrap4.cc/theme/free-horse-riding-club-theme/)
 
-**[View Live Preview](https://bootstrap4.cc/theme/free-horse-racing-theme)**
+**[View Live Preview](https://bootstrap4.cc/theme/free-horse-riding-club-theme)**
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release](https://bootstrap4.cc/theme/free-horse-racing-theme/)
+* [Download the latest release](https://bootstrap4.cc/theme/free-horse-riding-club-theme/)
 
 ## Usage
 
